@@ -1,0 +1,15 @@
+D:\Documents\Apps\Renamer\Renamer\bin\Debug\Renamer.exe.config
+D:\Documents\Apps\Renamer\Renamer\obj\Debug\Renamer.csprojResolveAssemblyReference.cache
+D:\Documents\Apps\Renamer\Renamer\obj\Debug\filedetail.baml
+D:\Documents\Apps\Renamer\Renamer\obj\Debug\MainWindow.baml
+D:\Documents\Apps\Renamer\Renamer\obj\Debug\filedetail.g.cs
+D:\Documents\Apps\Renamer\Renamer\obj\Debug\MainWindow.g.cs
+D:\Documents\Apps\Renamer\Renamer\obj\Debug\App.g.cs
+D:\Documents\Apps\Renamer\Renamer\obj\Debug\Renamer_MarkupCompile.cache
+D:\Documents\Apps\Renamer\Renamer\obj\Debug\Renamer.g.resources
+D:\Documents\Apps\Renamer\Renamer\obj\Debug\Renamer.Properties.Resources.resources
+D:\Documents\Apps\Renamer\Renamer\obj\Debug\Renamer.csproj.GenerateResource.Cache
+D:\Documents\Apps\Renamer\Renamer\bin\Debug\Renamer.exe
+D:\Documents\Apps\Renamer\Renamer\bin\Debug\Renamer.pdb
+D:\Documents\Apps\Renamer\Renamer\obj\Debug\Renamer.exe
+D:\Documents\Apps\Renamer\Renamer\obj\Debug\Renamer.pdb
